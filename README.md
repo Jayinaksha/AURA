@@ -319,6 +319,9 @@ Input (500 timesteps × 48 features)
 
 ---
 
+Built as part of the Vinayabrhami AI OS Architecture.
+
+
 ## License
 
 See [LICENSE](LICENSE) for details.
